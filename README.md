@@ -1,6 +1,7 @@
 ## 🧩 ReVanced Patches
 
-ReX Patches.
+ReX Patches. 
+This is for the purpose of facilitating the use of ReX with RVX builder, since now that both RVX and ReX are discontinued.
 
 ## 📋 List of patches in this repository
 
